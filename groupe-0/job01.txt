@@ -1,4 +1,0 @@
-#commande pour lister des fichiers avec beaucoup de detail
-
-ls -lAhp
-
