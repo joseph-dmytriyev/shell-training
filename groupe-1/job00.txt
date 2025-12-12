@@ -1,5 +1,0 @@
-1) echo "hello, world" > yolo.md
-2) echo -n "hello, la plateforme" >> yolo.md
-3) cp yolo.md yolo2.md
-4) cat yolo2.md yolo.md
-
