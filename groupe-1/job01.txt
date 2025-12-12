@@ -1,0 +1,4 @@
+1) head -n 2 groupe-1.md
+2) tail -n 10 groupe-1.md
+3) which ls
+
