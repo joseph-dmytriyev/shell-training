@@ -1,0 +1,6 @@
+1) echo "hello,World!"
+2)history
+3) touch yolo.md
+4) stat yolo.md
+5) rm yolo.md
+
