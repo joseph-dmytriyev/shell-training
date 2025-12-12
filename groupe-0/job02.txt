@@ -1,0 +1,4 @@
+
+1) cp groupe-0.md copy.md
+2) mv copy.md copy2.md
+3) cat *.md
